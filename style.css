@@ -1,0 +1,36 @@
+*{
+
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+    }
+    
+    body{
+    background-color: rgb(0, 12, 12);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+    main{
+    margin: 30px;
+    }
+    
+    h1{
+    color: rgb(128, 185, 235);
+    text-align: center;
+    margin: 20px;
+    }
+    
+    p{
+    text-align: justify;
+    font-size: 17px;
+    line-height: 1.5;
+    color: rgb(0, 51, 255);
+    }
+    
+    strong{
+    color: rgb(229, 232, 255);
+    }
+    i{
+    color: rgb(159, 148, 170);
+    }
